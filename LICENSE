@@ -1,21 +1,6 @@
-⚖️ License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
-💡 Notes
-All algorithms are implemented in Python 3.
-Examples are included in each file for easy testing.
-You can adapt these algorithms for bioinformatics sequence analysis by replacing text with DNA/protein sequences.
-
----
-
-## **LICENSE** (MIT License)
-
-```text
 MIT License
 
-Copyright (c) 2026 <Your Name>
+Copyright (c) 2026 Hadil Khelif
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
