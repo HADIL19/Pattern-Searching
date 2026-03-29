@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version='0.1.2'  # or 0.2.0 if major changes
+version='0.1.2'   # or 0.2.0 if major changes
 setup(
     name="pattern_searching",  # package name, must be unique on PyPI
     version=version,
