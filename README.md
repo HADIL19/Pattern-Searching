@@ -8,6 +8,7 @@ A comprehensive Python package providing **single-pattern and multiple-pattern s
 
 Perfect for **students, programmers, researchers, and bioinformatics enthusiasts** to learn, practice, and apply pattern searching in real-world applications.
 
+Pattern searching algorithms are essential tools in computer science and data processing. These algorithms are designed to efficiently find a particular pattern within a larger set of data.
 ---
 
 ## ✨ Features
